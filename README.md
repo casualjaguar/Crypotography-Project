@@ -2,8 +2,6 @@
 Unique Coding Function
 Allows each letter of the alphabet to be replaced with a unique, randomly paired letter. 
 
-
-
 import random
 message = input("Enter your message: ")
 def no_punctuation(message):
